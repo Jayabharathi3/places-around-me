@@ -19,7 +19,6 @@ Run the django server and execute the HTML files.
 ## Code:
 ```
 map.html
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,7 +45,6 @@ map.html
 </html>
 
 akt.html
-
 <!DOCTYPE html>
 <head>
 <h1 align="center">
@@ -78,7 +76,6 @@ Medical facilities are available in the campus to help in times of emergencies.
 </html>
 
 anb.html
-
 <!DOCTYPE html>
 <head>
 <title>ANB Marraige Mahal</title>
@@ -102,7 +99,6 @@ ANB Marriage Hall in Ammaiyagaram is an air-conditioned hall with a seating capa
 </html>
 
 karikalan.html
-
 <!DOCTYPE html>
 KARIKALAN HOTEL
 <head>
@@ -128,7 +124,6 @@ At this restaurant, the recipe of nicely cooked biryani is a story that ends up 
 </html>
 
 mahabharathi.html
-
 <!DOCTYPE html>
 <head>
 <title>Maha Bharathi International CBSE School</title>
