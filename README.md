@@ -4,19 +4,19 @@ To develop a website to display details about the places around my house.
 
 ## Design Steps:
 
-##Step 1:
+## Step 1:
 
  Clone the github repository into THEIA IDA.
 
-##Step 2:
+## Step 2:
 
  Create a new django project.
 
-##Step 3:
+## Step 3:
 
  Write the needed HTML code.
 
-##Step 4:
+## Step 4:
 
  Run the django server and execute the HTML files.
 
